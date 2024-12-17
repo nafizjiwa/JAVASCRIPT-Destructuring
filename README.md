@@ -38,7 +38,7 @@
     // Prints: The 1977 Mustang convertible, or Ford, is in the city Detroit.
 
 #####  The function printCarInfo is invoked with the truck object, these parameters are assigned the corresponding values from that object.
-##### Extra Example
+##### Additional Example
 
         const obj = { a: 1, b: 2 };
         const { a, b } = obj;
